@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=DF:B3:ED:8D:A9:E0:2B:1C:68:50:3B:6F:57:AF:1A:2D:F0:9F:A0:1F%3Bcom.example.dirttrails
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.example.dirttrails
+
+    SHA-1 certificate fingerprint:
+    DF:B3:ED:8D:A9:E0:2B:1C:68:50:3B:6F:57:AF:1A:2D:F0:9F:A0:1F
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCKh5ikk_XDtaRA01giI6GRqIHeaPwNpDw</string>
+</resources>

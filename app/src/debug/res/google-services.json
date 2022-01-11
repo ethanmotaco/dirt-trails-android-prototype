@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "521361012916",
+    "firebase_url": "https://dirtnav-c5a08.firebaseio.com",
+    "project_id": "dirtnav-c5a08",
+    "storage_bucket": "dirtnav-c5a08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521361012916:android:bc2807ed4ad40a8ad73fe1",
+        "android_client_info": {
+          "package_name": "com.ethanmotaco.dirtnav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521361012916-ln0623tk6rinc6mkld1c0ss1i3nd66s0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ethanmotaco.dirtnav",
+            "certificate_hash": "e935298f80e936f7280411905a85daa8a385d9e5"
+          }
+        },
+        {
+          "client_id": "521361012916-0jt3tmj93rgq4kbflbeop8dfu6mo35m4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzmtAuY9ZkaiG4Na9kIxXsQuRGUvJwWyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521361012916-0jt3tmj93rgq4kbflbeop8dfu6mo35m4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
